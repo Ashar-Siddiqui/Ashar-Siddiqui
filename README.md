@@ -8,3 +8,6 @@
 - 📫 How to reach me: ashar.siddiqui61@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm 15!
+
+---
+<img aligh="left" alt = "Ashar's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=Ashar-Siddiqui&show_icons=true&hide_border=true" />
