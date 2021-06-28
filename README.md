@@ -12,4 +12,4 @@
 ---
 <img align="left" alt = "Ashar's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=Ashar-Siddiqui&show_icons=true&hide_border=true&count_private=true&theme=radical" />
 
-<img align="left" alt = "Most used Languages" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ASHAR-SIDDIQUI&show_icons=true&hide_border=true&count_private=true&theme=radical" >
+<img align="left" alt = "Most used Languages" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ASHAR-SIDDIQUI&show_icons=true&count_private=true&theme=radical" >
