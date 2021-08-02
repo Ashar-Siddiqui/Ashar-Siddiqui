@@ -1,10 +1,10 @@
-### Hey, I'm Ashar Siddiqui! 👋
+## Hey, I'm Ashar Siddiqui! 👋
 
 - 🔭 I’m currently working on Coding!
 - 🌱 I’m currently learning RR
 - 📫 How to reach me: ashar.siddiqui61@gmail.com
 
-## Languages
+### Languages
 
 - Python
 - Java
