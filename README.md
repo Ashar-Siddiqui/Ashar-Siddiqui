@@ -1,7 +1,7 @@
 ## Hey, I'm Ashar Siddiqui! 👋
 
 - 🔭 I’m currently working on Coding!
-- 🌱 I’m currently learning RR
+- 🌱 I’m currently learning io
 - 📫 How to reach me: ashar.siddiqui61@gmail.com
 
 ### Languages
