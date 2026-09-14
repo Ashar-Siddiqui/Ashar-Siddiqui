@@ -4,7 +4,7 @@ B.S. in Computer Science @ University of Maryland, College Park · Minor in Stat
 
 I build software that makes failures understandable and recovery repeatable—from webhook delivery and transactional data pipelines to vibration classification. I'm seeking software engineering internship opportunities.
 
-[Email](mailto:ashar.siddiqui61@gmail.com) · [Repositories](https://github.com/Ashar-Siddiqui?tab=repositories)
+[Email](mailto:ashar.siddiqui61@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ashar-ahmad-siddiqui/) · [Repositories](https://github.com/Ashar-Siddiqui?tab=repositories)
 
 ## Featured projects
 
@@ -30,4 +30,4 @@ I build software that makes failures understandable and recovery repeatable—fr
 
 I'm interested in SWE internships where I can contribute to backend services, data-intensive applications, or ML tooling.
 
-**[ashar.siddiqui61@gmail.com](mailto:ashar.siddiqui61@gmail.com)**
+**[ashar.siddiqui61@gmail.com](mailto:ashar.siddiqui61@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/ashar-ahmad-siddiqui/)**
