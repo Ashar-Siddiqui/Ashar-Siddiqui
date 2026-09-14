@@ -1,18 +1,33 @@
-## Hey, I'm Ashar Siddiqui! 👋
+# Ashar Siddiqui
 
-- 🔭 I’m currently working on Coding!
-- 🌱 I’m currently learning io
-- 📫 How to reach me: ashar.siddiqui61@gmail.com
+Software engineering · Backend systems · Data pipelines · Machine learning
 
-### Languages
+I build software that makes failures understandable and recovery repeatable—from webhook delivery and transactional data pipelines to vibration classification. I'm seeking software engineering internship opportunities.
 
-- Python
-- Java
-- C++
-- HTML
-- JS
+[Email](mailto:ashar.siddiqui61@gmail.com) · [Repositories](https://github.com/Ashar-Siddiqui?tab=repositories)
 
----
-<img align="left" alt = "Ashar's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=Ashar-Siddiqui&show_icons=true&hide_border=true&count_private=true&count_public=true&theme=radical" />
+## Featured projects
 
-![Visitor Count](https://profile-counter.glitch.me/{Ashar-Siddiqui}/count.svg)
+| Project | What I built | Engineering details & evidence |
+| :--- | :--- | :--- |
+| **[Vibration Classification](https://github.com/Ashar-Siddiqui/VibrationClassification)** | A Python workflow for classifying rotating-shaft vibration data using time-series features and scikit-learn. | A **300-tree Random Forest**, separate training/test files, and code that reports accuracy and feature importance. [Model implementation](https://github.com/Ashar-Siddiqui/VibrationClassification/blob/master/main.py). |
+| **[Reliable Webhook Delivery](https://github.com/Ashar-Siddiqui/reliable-webhook-delivery)** | A TypeScript service with a React operator dashboard and a PostgreSQL-backed delivery queue. | Leased workers, idempotent acceptance, signed requests, retries, and replay history. **6 PostgreSQL integration tests**, including **1,000 jobs across 10 competing send loops**, a 50-request duplicate race, and lease recovery. [CI evidence](https://github.com/Ashar-Siddiqui/reliable-webhook-delivery/actions/runs/34862779666) · [Architecture](https://github.com/Ashar-Siddiqui/reliable-webhook-delivery/blob/main/docs/architecture.md). |
+| **[NYC Taxi Data Pipeline](https://github.com/Ashar-Siddiqui/nyc-taxi-data-pipeline)** | A restartable Python/DuckDB pipeline with validated Parquet outputs, quarantine, versioned publication, and analytics. | SHA-256 import identity, transactional publication, rollback, and subprocess crash injection. **5 tests passing on Python 3.11 and 3.13**; deterministic fixture checks **95 accepted / 5 quarantined rows** against independent aggregates. [CI evidence](https://github.com/Ashar-Siddiqui/nyc-taxi-data-pipeline/actions/runs/34862768559) · [Recovery tests](https://github.com/Ashar-Siddiqui/nyc-taxi-data-pipeline/blob/main/tests/test_pipeline.py). |
+
+## Technical focus
+
+- **Backend reliability:** transaction boundaries, idempotency, worker coordination, and failure recovery.
+- **Data engineering:** validation policies, provenance, immutable outputs, and reproducible analytics.
+- **Applied ML:** time-series features, supervised classification, and model evaluation.
+
+## Stack
+
+**Languages:** Python · TypeScript / JavaScript · SQL · Java · C++
+
+**Tools:** Node.js · React · PostgreSQL · DuckDB · NumPy · scikit-learn · Docker · pytest · Vitest · GitHub Actions
+
+## Connect
+
+I'm interested in SWE internships where I can contribute to backend services, data-intensive applications, or ML tooling.
+
+**[ashar.siddiqui61@gmail.com](mailto:ashar.siddiqui61@gmail.com)**
