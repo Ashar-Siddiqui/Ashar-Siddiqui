@@ -1,6 +1,7 @@
-# Ashar Siddiqui
+# Ashar Ahmad Siddiqui
 
 B.S. in Computer Science @ University of Maryland, College Park · Minor in Statistics · Expected graduation: May 2028
+Prev Software Engineer Intern @ Lockheed Martin
 
 I build software that makes failures understandable and recovery repeatable—from webhook delivery and transactional data pipelines to vibration classification. I'm seeking software engineering internship opportunities.
 
