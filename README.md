@@ -24,7 +24,7 @@ I build software that makes failures understandable and recovery repeatable—fr
 
 **Languages:** Python · TypeScript / JavaScript · SQL · Java · C++
 
-**Tools:** Node.js · React · PostgreSQL · DuckDB · NumPy · scikit-learn · Docker · pytest · Vitest · GitHub Actions
+**Tools:** Node.js · React · PostgreSQL · DuckDB · NumPy · scikit-learn · Docker · pytest · Vitest
 
 ## Reach me
 
