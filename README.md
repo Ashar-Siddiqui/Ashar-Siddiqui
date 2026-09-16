@@ -24,6 +24,4 @@ I build software that makes failures understandable and recovery repeatable—fr
 
 ## Reach me
 
-I'm interested in SWE internships where I can contribute to backend services, data-intensive applications, or ML tooling.
-
 **[ashar.siddiqui61@gmail.com](mailto:ashar.siddiqui61@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/ashar-ahmad-siddiqui/)**
