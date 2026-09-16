@@ -10,7 +10,7 @@ I build software that makes failures understandable and recovery repeatable—fr
 
 ## Featured projects
 
-| Project | What I built | Engineering details & evidence |
+| Project | What I built | Details |
 | :--- | :--- | :--- |
 | **[Rotating-Shaft Fault Classification](https://github.com/Ashar-Siddiqui/VibrationClassification)** | A Python classification workflow exploring predictive maintenance through rotating-shaft vibration data, time-series features, and scikit-learn. | A **300-tree Random Forest**, separate training/test files, code that reports accuracy and feature importance, and the paper I authored to summarize my experimentation. |
 | **[Reliable Webhook Delivery](https://github.com/Ashar-Siddiqui/reliable-webhook-delivery)** | A TypeScript service with a React operator dashboard and a PostgreSQL-backed delivery queue. | Leased workers, idempotent acceptance, signed requests, retries, and replay history. **6 PostgreSQL integration tests**, including **1,000 jobs across 10 competing send loops**, a 50-request duplicate race, and lease recovery. |
