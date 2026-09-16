@@ -16,12 +16,6 @@ I build software that makes failures understandable and recovery repeatable—fr
 | **[Reliable Webhook Delivery](https://github.com/Ashar-Siddiqui/reliable-webhook-delivery)** | A TypeScript service with a React operator dashboard and a PostgreSQL-backed delivery queue. | Leased workers, idempotent acceptance, signed requests, retries, and replay history. **6 PostgreSQL integration tests**, including **1,000 jobs across 10 competing send loops**, a 50-request duplicate race, and lease recovery. |
 | **[NYC Taxi Data Pipeline](https://github.com/Ashar-Siddiqui/nyc-taxi-data-pipeline)** | A restartable Python/DuckDB pipeline with validated Parquet outputs, quarantine, versioned publication, and analytics. | SHA-256 import identity, transactional publication, rollback, and subprocess crash injection. **5 tests passing on Python 3.11 and 3.13**; deterministic fixture checks **95 accepted / 5 quarantined rows** against independent aggregates. |
 
-## Technical focus
-
-- **Backend reliability:** transaction boundaries, idempotency, worker coordination, and failure recovery.
-- **Data engineering:** validation policies, provenance, immutable outputs, and reproducible analytics.
-- **Applied ML:** time-series features, supervised classification, and model evaluation.
-
 ## Stack
 
 **Languages:** Python · TypeScript / JavaScript · SQL · Java · C++
